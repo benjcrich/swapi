@@ -1,4 +1,4 @@
-## Challenge1
+## Challenge1 - Work with APIs and Libraries
 Using the [Star Wars API](https://www.swapi.co) create a formatted list of ships that have unique pilots and list those pilots.
 
 ---
