@@ -1,6 +1,9 @@
 ## Challenge1 - Work with APIs and Libraries
-Using the [Star Wars API](https://www.swapi.co) create a formatted list of ships that have unique pilots and list those pilots.
-
+Use [Star Wars API](https://www.swapi.co)
+- API Request - Pull all data about Starships from SWAPI
+- If Loops - List all ships that have named pilots
+- Loops - List all pilots of those ships
+- Print - Output must be human-readable
 ---
 ### Usage
 - Clone this repo to your local computer using `git clone https://github.com/Code-Club-Crew/challenge1.git`.
