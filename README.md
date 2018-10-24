@@ -1,7 +1,21 @@
 ## Challenge1 - Work with APIs and Libraries
+### Objectives
+
+The intent for this lesson is to build a more dynamic script that utilizes user input when ran. This added flexibility presents some challenges that we will need to overcome in the form of error handling and providing the user with helpful feedback.
+
+If Statements
+- Comparing values using an `if` statement will allow you to run certain branches of your code if a condition is met, or not. This additional logic is helpful for writing smarter code.
+
+Loops
+- Mastering loops is integral to running scalable scripts. Becoming familiar with `for` and `while` loops will allow you to write scripts that iterate smartly.
+
+Print
+- The print function is generally the main method used for any output from your code. Formatting and printing of outputs is important for producing human readable information.
+
+---
 Use [Star Wars API](https://www.swapi.co)
 - API Request - Pull all data about Starships from SWAPI
-- If Loops - List all ships that have named pilots
+- If Statements - List all ships that have named pilots
 - Loops - List all pilots of those ships
 - Print - Output must be human-readable
 ---
