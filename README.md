@@ -13,7 +13,7 @@ Print
 - The print function is generally the main method used for any output from your code. Formatting and printing of outputs is important for producing human readable information.
 
 ---
-Use [Star Wars API](https://www.swapi.co)
+Use [Star Wars API](https://www.swapi.dev)
 - API Request - Pull all data about Starships from SWAPI
 - If Statements - List all ships that have named pilots
 - Loops - List all pilots of those ships
@@ -34,7 +34,7 @@ Recommend Go or Python
 
 ---
 ### Additional Resources
-https://swapi.co/documentation
+https://swapi.dev/documentation
 
 Check your language of choice for a supporting library.
 
